@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: textSummariser
+Version: 0.0.0
+Summary: A small python package for a NLP app
+Home-page: https://github.com/JonathanVeys/Text_summariser
+Author: JonathanVeys
+Author-email: JonathanCr1234@gmail.com
+Project-URL: bug_tracker, https://github.com/JonathanVeys/Text_summariser/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
